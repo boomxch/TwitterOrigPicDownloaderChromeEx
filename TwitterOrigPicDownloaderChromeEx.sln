@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwitterOrigPicDownloader", "TwitterOrigPicDownloader", "{D00831E5-7B15-4936-898F-FBBE7B7B04B3}"
+	ProjectSection(SolutionItems) = preProject
+		TwitterOrigPicDownloader\manifest.json = TwitterOrigPicDownloader\manifest.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{55442D32-4997-4D10-8A3B-819E7CBA07E0}"
+	ProjectSection(SolutionItems) = preProject
+		TwitterOrigPicDownloader\js\background.js = TwitterOrigPicDownloader\js\background.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55442D32-4997-4D10-8A3B-819E7CBA07E0} = {D00831E5-7B15-4936-898F-FBBE7B7B04B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA11A42B-E9BC-42A1-A69D-C259AEE2031E}
+	EndGlobalSection
+EndGlobal
