@@ -1,0 +1,2 @@
+# TwitterOrigPicDownloaderChromeEx
+ツイッターでオリジナル画像をダウンロードできるようにするchrome拡張機能 (一度Save as を使用しても最後に保存したフォルダディレクトリの位置が保存されない（毎回デフォルト保存場所から選択）)
